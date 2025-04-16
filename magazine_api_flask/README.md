@@ -1,4 +1,4 @@
-# Magazine API Flask
+# Users API Flask
 
 Projekt API magazynu zbudowany przy użyciu Flask, Flask-SQLAlchemy, Flask-Migrate, Flask-JWT-Extended oraz OAuth z GitHub.
 
